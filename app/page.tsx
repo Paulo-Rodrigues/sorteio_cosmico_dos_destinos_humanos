@@ -31,7 +31,7 @@ export default function Home() {
         <button
           onClick={() => setImage(getRandomImage())}
         >
-          Next
+          Sortear
         </button>
       </div>
     </div>
