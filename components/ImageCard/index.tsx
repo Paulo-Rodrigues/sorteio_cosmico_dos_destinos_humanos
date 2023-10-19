@@ -15,7 +15,7 @@ export const ImageCard = ({ src, alt, text }: ImageCardProps) => {
   return (
     <div className={styles.imageCard}>
       <div className={styles.imageContainer}>
-        <Image src={src} alt={alt} width={500} height={500} />
+        <Image src={src} alt={alt} width={400} height={500} />
         <div className={styles.overlay}>
           <p>{text}</p>
         </div>
