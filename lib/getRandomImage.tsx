@@ -1,14 +1,39 @@
 const imagesPath = [
   {
-    path: '/test.jpg',
-    alt: 'test',
-    text: 'This is a test image'
+    path: '/debs.jpg',
+    alt: 'debs',
+    text: 'Debs'
   },
   {
-    path: '/another.jpg',
-    alt: 'another',
-    text: 'This is another image'
-  }
+    path: '/murilo.jpg',
+    alt: 'murilo',
+    text: 'Murilo'
+  },
+  {
+    path: '/paulo.jpg',
+    alt: 'paulo',
+    text: 'Paulo'
+  },
+  {
+    path: '/pedro.jpg',
+    alt: 'pedro',
+    text: 'Pedro'
+  },
+  {
+    path: '/petra.jpg',
+    alt: 'petra',
+    text: 'Petra'
+  },
+  {
+    path: '/rafael.jpg',
+    alt: 'rafael',
+    text: 'Rafael'
+  },
+  {
+    path: '/valeska.jpg',
+    alt: 'valeska',
+    text: 'Valeska'
+  },
 ]
 
 const resetImage = {
